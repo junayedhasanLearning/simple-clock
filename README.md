@@ -1,5 +1,3 @@
-README.md# Simple Clock Web Project
-
 ## Project Description
 
 This project is a simple clock web application that displays the current time and updates every second. It serves as an excellent demonstration of using HTML, CSS, and JavaScript to create a dynamic web interface. The clock is centered on the page and features a visually appealing border and text style. The application is responsive and adjusts well across various screen sizes.
