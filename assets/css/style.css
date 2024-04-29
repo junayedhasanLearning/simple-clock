@@ -54,3 +54,23 @@ body {
     font-weight: 500;
   }
 }
+
+@media (width <= 1200px) {
+  html {
+    font-size: 56.25%;
+    /* 1rem = 9px */
+  }
+}
+
+@media (width <= 1000px) {
+  html {
+    font-size: 43.75%;
+    /* 1rem = 7px */
+  }
+}
+
+@media (width <= 768px) {
+  .date {
+    text-align: center;
+  }
+}
